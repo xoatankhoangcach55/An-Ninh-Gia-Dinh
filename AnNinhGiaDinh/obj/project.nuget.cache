@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "gcoieF9Ji8lkGz2wzgdk+d8oNgdEnhyU58gqsqYnPH9VZ/6I0AtgD5ZNCJQAxbH758e7Lv/SHPwsLsxK86+H3w==",
+  "success": true,
+  "projectFilePath": "E:\\Tong Hop\\C#\\AnNinhGiaDinh\\AnNinhGiaDinh\\AnNinhGiaDinh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xoadi\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WebSocketSharp 1.0.3-rc11' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WebSocketSharp",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}
